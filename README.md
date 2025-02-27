@@ -8,4 +8,4 @@ The project is divided into 2 parts:
 2. UAV Object Detection using transfer learning
 
 
-## Important : Before compiling the code: change the path of the images and labels in main
+## Important before compiling the code: Change the path of the images and labels in main
